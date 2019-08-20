@@ -16,7 +16,6 @@
     components: {
       'lf-icon': Icon
     },
-    //props: ['icon','iconPosition']
     props: {
       icon: {},
       loading: {
